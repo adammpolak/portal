@@ -1,5 +1,3 @@
-# Adam's Website
+# Portal
 
-The purpose of this repo is to mess around and try out new things.
-
-Trying out new techs and making apps to help me figure myself out.
+The purpose of this repo is to work on the stand up app
